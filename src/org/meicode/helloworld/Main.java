@@ -12,7 +12,7 @@ public class Main {
         double b=myObj.nextDouble();
         String res= Double.toString(a+b);
 
-        System.out.println("შედეგი ტოლია "+res);
+        System.out.println("შედეგი უდრის "+res);
 
     }
 
