@@ -6,9 +6,9 @@ public class Main {
     public static void main(String[] args) {
         Scanner myObj = new Scanner(System.in);
 
-        System.out.println("შეიტანეთ პირველი რიცხვი");
+        System.out.println("შეიტანეთ პირველი შესაკრები");
        double a=myObj.nextDouble();
-        System.out.println("შეიტანეთ მეორე რიცხვი");
+        System.out.println("შეიტანეთ მეორე შესაკრები");
         double b=myObj.nextDouble();
         String res= Double.toString(a+b);
 
